@@ -1,0 +1,10 @@
+/target
+/.idea
+.env
+config.toml
+db.conf
+/api
+/contracts/epoch
+/contracts/abi
+Cargo.toml
+
